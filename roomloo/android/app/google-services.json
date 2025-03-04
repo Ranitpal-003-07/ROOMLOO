@@ -12,7 +12,20 @@
           "package_name": "com.example.roomloo"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "463283944403-9nkj5vu7sn39ed1k6u3refrjbsrvg429.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomloo",
+            "certificate_hash": "0cc32f4e16319fb28338cc517b63fbdd0c45ed9b"
+          }
+        },
+        {
+          "client_id": "463283944403-i9v3mcphlu5t0ldrj84p3msrafm4520r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCiO74q1eez9oc2oLu7KxC7XHpbxApTmio"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463283944403-i9v3mcphlu5t0ldrj84p3msrafm4520r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463283944403-8b4cl6s4oaaho6knq42ht4hddlqu088s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roomloo"
+              }
+            }
+          ]
         }
       }
     }

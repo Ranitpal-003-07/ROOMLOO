@@ -64,6 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '463283944403',
     projectId: 'roomloo-12998',
     storageBucket: 'roomloo-12998.firebasestorage.app',
+    androidClientId: '463283944403-9nkj5vu7sn39ed1k6u3refrjbsrvg429.apps.googleusercontent.com',
+    iosClientId: '463283944403-8b4cl6s4oaaho6knq42ht4hddlqu088s.apps.googleusercontent.com',
     iosBundleId: 'com.example.roomloo',
   );
 
@@ -73,6 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '463283944403',
     projectId: 'roomloo-12998',
     storageBucket: 'roomloo-12998.firebasestorage.app',
+    androidClientId: '463283944403-9nkj5vu7sn39ed1k6u3refrjbsrvg429.apps.googleusercontent.com',
+    iosClientId: '463283944403-8b4cl6s4oaaho6knq42ht4hddlqu088s.apps.googleusercontent.com',
     iosBundleId: 'com.example.roomloo',
   );
 
@@ -85,4 +89,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'roomloo-12998.firebasestorage.app',
     measurementId: 'G-1G9294DS16',
   );
+
 }
